@@ -1,18 +1,10 @@
 #Introduction#
 
-Many people find themselves looking at their phone chargers or other devices that
-they may own and wondering what even is electricity. Well, electricity is simply the
-movement of electron. Electricity is all about the forces that these electrons carry,
-their speeds, and the properties of the material they are flowing through.
+Many people find themselves looking at their phone chargers or other devices that they may own and wondering what even is electricity. Well, electricity is simply the movement of electron. Electricity is all about the forces that these electrons carry, their speeds, and the properties of the material they are flowing through.
 
 ##What is the electron?##
 
-The electron is a very small particle that carries a negative charge. This fact alone
-confuses many people. Because an electron is what is providing energy surely it
-must have a positive charge. Well not necessarily. When scientists talk about the
-charge of a particle it just means what that particle is attracted towards; positively
-charged particles are attracted towards negatively charged particles while they
-repel each other.
+The electron is a very small particle that carries a negative charge. This fact alone confuses many people. Because an electron is what is providing energy surely it must have a positive charge. Well not necessarily. When scientists talk about the charge of a particle it just means what that particle is attracted towards; positively charged particles are attracted towards negatively charged particles while they repel each other.
 
 \#\#table 1\#\# attraction / repulsion
 
