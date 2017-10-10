@@ -23,11 +23,9 @@ You can find the answers to each of the required questions in the following:
 | 5. Outline a common use of an electro magnet and how it works. | The relay |
 
 ---
-
-	<h1>{{ page.title }}</h1>
-	<ul class="posts">
-
-	  {% for post in site.posts %}
-	    <li><span>{{ post.date | date_to_string }}</span> » <a href="/PBL{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
-	  {% endfor %}
-	</ul>
+<h1>{{ page.title }}</h1>
+<ul class="posts">
+{% for post in site.posts %}
+<li><span>{{ post.date | date_to_string }}</span> » <a href="/PBL{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
+{% endfor %}
+</ul>
