@@ -6,7 +6,11 @@ Many people find themselves looking at their phone chargers or other devices tha
 
 The electron is a very small particle that carries a negative charge. This fact alone confuses many people. Because an electron is what is providing energy surely it must have a positive charge. Well not necessarily. When scientists talk about the charge of a particle it just means what that particle is attracted towards; positively charged particles are attracted towards negatively charged particles while they repel each other.
 
-\#\#table 1\#\# attraction / repulsion
+|       | positive | negative |
+| :---: | :---: | :---: |
+| positive | repel | attract |
+| negative | attract | repel |
+#### table 1 #### attraction / repulsion
 
 The charge of the electron is completely seperate to the energies it carries. So how do electrons power things. Electrons normally travel through a conductor (generally a wire) before going through a load (which could be anything but, for example, a light globe) as the electrons travel through the load they interact with the atoms that make it up. Depending on what the electrons are passing through they might heat up the material (with the electrons loosing some energy), produce movement, or even create some light.
 
