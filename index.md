@@ -18,8 +18,8 @@ You can find the answers to each of the required questions in the following:
 |   :---:  | :---: |
 | 1. Explain why a current carrying wire causes magnetism and what causes it. | Intro |
 | 2. Explain solenoid and electromagnets, their mainfunction and features such as current, field, and polarity. | Electromagnet vs solenoid |
-| 3. Compare a permanent magnet to an electromagnet in terms of magnetic field and function | Making magnets stronger |
-| 4. Indenting the factors which increase the strength of an electro magnet and why they do so. | Intro |
+| 3. Compare a permanent magnet to an electromagnet in terms of magnetic field and function | Intro |
+| 4. Indenting the factors which increase the strength of an electro magnet and why they do so. | Making magnets stronger |
 | 5. Outline a common use of an electro magnet and how it works. | The relay |
 
 ---
